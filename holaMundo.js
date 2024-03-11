@@ -1,7 +1,7 @@
 //Llamamos el módulo HTTP
 const http = require('http');
 //Establecemos la URL o IP de nuestro servidor
-const hostname = '192.168.1.138';
+const hostname = '192.168.1.18';
 //Establecemos el puerto de escucha
 const port = 3000;
 //Creamos una instancia HTTP con un request y un response
